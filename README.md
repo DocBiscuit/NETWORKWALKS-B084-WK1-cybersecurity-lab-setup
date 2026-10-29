@@ -31,6 +31,8 @@ The Kali VM was now using:
 
 10.0.0.2/24
 
+<img width="1917" height="962" alt="download" src="https://github.com/user-attachments/assets/9c058853-9811-4275-916c-6f6e0fcd17c4" />
+
 
 This setup gives me a simple and predictable network for my cybersecurity lab, where I can manually control the IP addresses of each virtual machine.
 Thanks for NETWORKWALKS for the opportunity. 
